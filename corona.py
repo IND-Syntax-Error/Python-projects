@@ -1,3 +1,5 @@
+# pip install matplotlib
+# pip install covid
 # importing tkinter
 from tkinter import *
 # initializing tkinter
